@@ -1,0 +1,36 @@
+
+body {
+	background: #82ff6f;
+	width: 100%
+
+}
+
+h1 {
+	letter-spacing: 3px;
+}
+
+div {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.container__button{
+	border: 4px solid blue;
+	color: blue;
+	font-weight: 700;
+	background-color: yellow;
+}
+
+.container__input{
+  border: 4px solid blue;
+  color: blue;
+  justify-content: center;
+  width: 300px;
+  margin-right: 10px;
+  margin-left: 500px;
+  margin-bottom: 50px;
+}
+
